@@ -1,4 +1,4 @@
-# 🧩 codegotlatent-assets
+# 🧩 codegotlatent-assets 
 
 > **In every frame, a pattern sleeps,**  
 > **Beyond the color, silence keeps.**  
